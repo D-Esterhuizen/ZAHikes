@@ -1,0 +1,6 @@
+@ZAHikes_HostAddress = http://localhost:5072
+
+GET {{ZAHikes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
